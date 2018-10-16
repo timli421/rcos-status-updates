@@ -5,8 +5,8 @@
 
  ## This Week's Plan
 
- > This week we are going to build the website and origanize the code.
+ > This week we are going to build the website and organize the code.
 
  ## Anything Blocking?
 
- > No.
+ > No. Since the exam week is over, I will have more time to work on the project.
