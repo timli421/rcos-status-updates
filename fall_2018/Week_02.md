@@ -1,7 +1,7 @@
 ## Last Week's Accomplishments
 
- > Last week I was building the website with my team. However, I did not make much progress due to the exams.
-
+ > Last week I built the website with my team. However, I did not make much progress due to the exams.
+ I added some title and learned how to "center" them. From HTML5, I learned the elements, styles and attributes.
 
  ## This Week's Plan
 
