@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
- > Last week I learned HTML and JavaScript, those two languages were very important for us to build the website. Our front end team also set up the enviroment for the project.
+ > Last week I learned HTML and JavaScript, those two languages were very important for us to build the website. Our front end team also set up the enviroment for the project. We downloaded the GitHub Desktop.
 
 
  ## This Week's Plan
