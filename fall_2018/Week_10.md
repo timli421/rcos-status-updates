@@ -4,7 +4,7 @@
 
  ## This Week's Plan
 
- > This week I will prepare for the presentation.
+ > This week I will prepare for the presentation, and p
 
  ## Anything Blocking?
 > No.
