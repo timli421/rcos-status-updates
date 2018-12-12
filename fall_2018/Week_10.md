@@ -7,4 +7,4 @@
 > Upload my unfinished files to the github to show my progress during the past month.
 
  ## Anything Blocking?
-> No.
+> I really learned a lot of knowledge regarding HTML during the past month, and I also found some good HTML templates online(W3), they are free to use, and I just needed to build the website based on their templates. Thus, our front end team didn't need to spend the first few weeks learning HTML, and it would probably save us a lot more time.
